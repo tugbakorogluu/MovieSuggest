@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "---YourProjectNumber---",
+    "project_id": "---YourProjectID---",
+    "storage_bucket": "---YourProjectStorageBucket---"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267473672238:android:90d3621927e219925ea7bf",
+        "android_client_info": {
+          "package_name": "com.example.project155"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "---YourApıKey---"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

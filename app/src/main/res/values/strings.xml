@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project155</string>
+    <string name="name_john_doe">Name: John Doe</string>
+    <string name="email_john_doe_example_com">Email: john.doe@example.com</string>
+    <string name="get_recommendation">Get Recommendation</string>
+    <string name="describe_what_kind_of_movie_you_want_to_watch">Describe what kind of movie you want to watch…</string>
+    <string name="ai_movie_recommender">AI Movie Recommender</string>
+    <string name="movie_recommendation_scrollable_area">Movie recommendation scrollable area</string>
+</resources>
